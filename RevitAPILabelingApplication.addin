@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPILabelingApplication.dll"</Assembly>
+		
+		<AddInId>15690A16-25B9-458C-B591-1749ADF78A11</AddInId>
+		<FullClassName>RevitAPILabelingApplication.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPILabelingApplication для Revit</Text>
+	</AddIn>
+</RevitAddIns>

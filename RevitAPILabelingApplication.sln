@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPILabelingApplication", "RevitAPILabelingApplication.csproj", "{69026194-B9BB-435D-9A6F-59D17DF772C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPILabelingLibrary", "..\RevitAPILabelingLibrary\RevitAPILabelingLibrary.csproj", "{EF341569-9DDC-41EF-B04C-C1ED12C13EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69026194-B9BB-435D-9A6F-59D17DF772C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69026194-B9BB-435D-9A6F-59D17DF772C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69026194-B9BB-435D-9A6F-59D17DF772C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69026194-B9BB-435D-9A6F-59D17DF772C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF341569-9DDC-41EF-B04C-C1ED12C13EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF341569-9DDC-41EF-B04C-C1ED12C13EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF341569-9DDC-41EF-B04C-C1ED12C13EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF341569-9DDC-41EF-B04C-C1ED12C13EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89228E8C-B2FE-448A-B918-015BAC9CA6ED}
+	EndGlobalSection
+EndGlobal
